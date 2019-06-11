@@ -1,0 +1,24 @@
+remote_theme: "markv1-0/jekyll-theme-basically-basic"
+lang: en-GB
+title:	Mark Evans
+description:	My personal site, hosting my occassional blog article and my on-line CV
+url: https://markv1-0.github.io
+author:
+  name: Mark Evans
+  twitter: Markv1_0
+social:
+  name: Mark Evans
+  links:
+    - https://twitter.com/Markv1_0
+    - https://www.linkedin.com/in/mark-evans-b1b69b143
+    - https://github.com/markv1-0
+logo:	/assets/images/me-2018.jpg
+twitter_username:	Markv1_0
+github_username: markv1-0
+linkedin_username: mark-evans-b1b69b143
+plugins:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-seo-tag
+disqus:
+  shortname: markv1-0-github

@@ -1,0 +1,52 @@
+{
+  "basics": {
+    "name": "Mark Evans",
+    "summary": "An experienced Enterprises Security Architect, experienced at working with and advising customers from C level, down to the detailed technical SMEs, adapting his content and delivery as appropriate for the audience.  Over 23 years of industry experience, predominantly in secure systems design and architecture.
+Strong focus on Digital Transformation, Cloud Security and Information/Business Centric Security.  With experience from both Cloud consumer and provider perspectives.
+Mark has an extensive Cyber Security knowledge base, backed up by an ability to learn and adapt quickly to new technology/industry areas.
+Passionate about sharing his knowledge and helping develop new talent.  Represented HPE on the industry committee, led by TechUK, defining the specification for a Cyber Security Degree Apprenticeship.
+",
+    "location": {
+      "city": "Reading",
+      "countryCode": "UK",
+      "region": "Berkshire"
+    },
+    "profiles": [{
+        "network": "Twitter",
+        "username": "Markv1_0",
+        "url": "https://twitter.com/Markv1_0"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "mark-evans-b1b69b143",
+        "url": "https://www.linkedin.com/in/mark-evans-b1b69b143"
+      },
+      {
+        "network": "GitHub",
+        "username": "markv1-0",
+        "url": "https://www.github.com/markv1-0"
+      }
+    ]
+  },
+  "work": [{
+      "company": "DXC Technology",
+      "position": "Chief Security Architect",
+      "website": "https://dxc.technology",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [{
+      "institution": "University of Portsmouth",
+      "area": "Computer Science",
+      "studyType": "BSc",
+    }
+  ],
+  "languages": [{
+      "language": "English",
+      "fluency": "Native"
+    }
+  ]
+}
