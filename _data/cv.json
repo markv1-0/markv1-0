@@ -14,7 +14,7 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
     "profiles": [{
         "network": "Twitter",
         "username": "Markv1_0",
-        "url": "https://twitter.com/Markv1_0"
+        "url": "https://www.twitter.com/Markv1_0"
       },
       {
         "network": "LinkedIn",
@@ -30,12 +30,132 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
   },
   "work": [{
       "company": "DXC Technology",
-      "position": "Chief Security Architect",
-      "website": "https://dxc.technology",
-      "startDate": "",
+      "position": "UKI&MEA Chief Security Architect and DXC Security CTO/Security Labs member",
+      "website": "https://www.dxc.technology",
+      "startDate": "2018-04-01",
       "endDate": "",
-      "summary": "",
+      "summary": "A continuation of his UK&I Chief Security Architect, expanding his remit to the UKI&MEA Region.
+      Mark is currently leaded and continues to develop the interception of DXC’s Documentation as Code initiative for the DXC Cyber Reference Architecture (CRA), creating a GitHub repository, collaborative authoring/editorial process, and publication via a publishing tools chain.
+      Mark is leading the development of a DevSecOps Blueprint and co-authored a DevSecOps White Paper.
+      Mark is also leading the establish of close integration between DXC Security and DXC’s Digital Transformation Centres, initially focused on the UK, as a pilot for global rollout.",
       "highlights": []
+    },
+    {
+      "company": "Hewlett Packard Enterprise/DXC Technology",
+      "position": "UK&I Chief Security Architect",
+      "website": "https://www.hpe.com / https://www.dxc.technology",
+      "startDate": "2016-09-01",
+      "summary": "Mark is responsible for Security Architecture Governance and Strategy across the UK&I Security Advisory Services reporting to the UK&I Head of the Security Risk Management Practice.
+      Mark plays a key role in the selection of external and promotion of internal Security Architect candidates.  He also has a lead role in the development of the Security Architecture capability providing training, mentoring and guidance across the UK&I team and the UK&I Security Advisory Service team as a whole.  He is the lead UK&I DXC CRA ambassador, responsible to training internally and evangelising the CRA both internally and externally.
+      Mark provides Security Architecture Governance, Guidance and Support across UK&I region as a whole, including new business bids and pursuits.
+      Mark is also a member of the DXC Cyber Security CTO’s team, called upon for input to offering concepts, customer presentation and collateral.",
+      "highlights": [],
+      "endDate": "2018-04-01"
+    },
+    {
+      "company": "Hewlett Packard Enterprise/Hewlett Packard",
+      "position": "UK&I Secure Accounts – Chief Security Architect",
+      "website": "https://www.hpe.com / https://www.hp.com",
+      "startDate": "2013-09-01",
+      "summary": "Mark is responsible for Security Architect Governance and Strategy across the HP Enterprise Services UK&I Secure Accounts (SA), with primary focus on the Portfolio Services and Government Frameworks.
+      Mark is responsible for working with the HP UK&I SA Portfolio Leaders and their teams to ensure that their Portfolio Offerings meet UK Government Security Requirements and Strategies.
+      Mark also provides support and guidance to new business bid and pursuits, as well as specific guidance on the G-Cloud portfolio services.
+      Mark provides Security Architecture Governance, Guidance and Support across the HP Enterprise Security Services UK&I SA Practice.",
+      "highlights": [],
+      "endDate": "2016-09-01"
+    },
+    {
+      "company": "Hewlett Packard",
+      "position": "UK Public Sector G-Cloud Program – Chief Security Architect",
+      "website": "https://www.hp.com",
+      "startDate": "2011-04-01",
+      "summary": "As Program Chief Security Architect Mark was responsible for the overall Security Architecture of the HP G-Cloud Program, including definition of the Security Architecture of HP’s G-Cloud Services, drafting Accreditation Request Submissions to the Cabinet Office G-Cloud Authority, presenting the Solution Architecture to CESG Security Architects, Pan Government Accreditors and Customer Security Architects/Accreditors.
+      Mark provided Security Governance across the program and delivered services, New Business/On-Boarding
+      Mark provided G-Cloud Services Security Architecture support to Bid teams, Solution Security Aspects training to HP Public Sector Architects, Chief Technologists and Solution Architects.",
+      "highlights": [],
+      "endDate": "2013-09-01"
+    },
+    {
+      "company": "Hewlett Packard",
+      "position": "Ministry of Justice Account – Chief Security Architect",
+      "website": "https://www.hp.com",
+      "startDate": "2009-11-01",
+      "summary": "As Chief Security Architect Mark was responsible to both the Account Chief Technology Officer and Chief Security Officer for governance of over the Security Architecture of all of the Ministry of Justice Systems managed/hosted by the account.  He was responsible for defining the Enterprise Security Architecture for the account, setting the technical security strategy for the account, promoting the standardisation of Security Architectures and products across all of the Account’s work streams.
+      Mark provided Security Governance over New Business proposals, providing Security Architecture support to the Solution Architects, shaping the security aspects of the proposed solutions.",
+      "highlights": [],
+      "endDate": "2012-02-01"
+    },
+    {
+      "company": "Hewlett Packard",
+      "position": "ATLAS Consortium – Lead Security Architect",
+      "website": "https://www.hp.com",
+      "startDate": "2009-04-01",
+      "summary": "A continuation of the Role Detailed below, after transitioning from EDS to Vistorm as part of the consolidation of EDS UK Security capabilities under the Vistorm Brand.",
+      "highlights": [],
+      "endDate": "2009-11-01"
+    },
+    {
+      "company": "EDS",
+      "position": "ATLAS Consortium – Lead Security Architect",
+      "website": "",
+      "startDate": "2009-04-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2007-04-01"
+    },
+    {
+      "company": "EDS",
+      "position": "ATLAS Consortium - Security Architect",
+      "website": "",
+      "startDate": "2005-05-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2007-04-01"
+    },
+    {
+      "company": "EDS",
+      "position": "HM Court’s Service SUPS Program - Infrastructure & Security Technical Authority",
+      "website": "",
+      "startDate": "2004-10-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2005-05-01"
+    }
+    {
+      "company": "EDS",
+      "position": "Commonwealth Bank of Australia Account - Security Architect",
+      "website": "",
+      "startDate": "2004-07-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2004-10-01"
+    },
+    {
+      "company": "EDS",
+      "position": "Inland Revenue Account - Infrastructure Security Technical Authority",
+      "website": "",
+      "startDate": "1999-08-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "2004-07-01"
+    }
+    {
+      "company": "EDS",
+      "position": "ATRA Account - SMS & R&D Team Leader",
+      "website": "",
+      "startDate": "1998-05-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "1999-08-01"
+    },
+    {
+      "company": "Royal Navy",
+      "position": "Lieutenant – Engineer (Information Systems)",
+      "website": "",
+      "startDate": "1993-04-01",
+      "summary": "",
+      "highlights": [],
+      "endDate": "1998-04-30"
     }
   ],
   "education": [{
