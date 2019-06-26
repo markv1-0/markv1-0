@@ -27,16 +27,16 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
         "url": "https://www.github.com/markv1-0"
       }
     ]},
-    "certification": [{
-      "title": "CISSP",
+    "certifications": [{
+      "name": "CISSP",
       "body": "(ISC)<sup>2</sup>"
     },
     {
-      "title": "CCSP",
+      "name": "CCSP",
       "body": "(ISC)<sup>2</sup>"
     },
     {
-      "title": "MBCS",
+      "name": "MBCS",
       "body": "British Computer Society"
     }
   ],
