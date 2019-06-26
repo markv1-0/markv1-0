@@ -28,15 +28,15 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
       }
     ]},
     "certifications": [{
-      "name": "CISSP",
+      "cert": "CISSP",
       "body": "(ISC)<sup>2</sup>"
     },
     {
-      "name": "CCSP",
+      "cert": "CCSP",
       "body": "(ISC)<sup>2</sup>"
     },
     {
-      "name": "MBCS",
+      "cert": "MBCS",
       "body": "British Computer Society"
     }
   ],
