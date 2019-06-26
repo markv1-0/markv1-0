@@ -11,5 +11,5 @@ introduction: |
 
   I'm currently the UKI&MEA Chief Security Architect for DXC Technology.  For more details of skillset, capabilities, work history and published white papers/articles, take a look at my [CV](cv.html).
 
-  When I'm not doing Cyber Security stuff, I'm a Kayaker, Hill/Mountain Walker, Climber, Skier!
+  When I'm not doing Cyber Security stuff, I'm a Kayaker, Hill/Mountain Walker, Climber, Skier! 
 ---
