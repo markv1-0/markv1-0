@@ -28,6 +28,18 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
       }
     ]
   },
+    "certification": [{
+      "title": "CISSP"
+      "body": "(ISC)<sup>2</sup>"
+    },
+    {
+      "title": "CCSP"
+      "body": "(ISC)<sup>2</sup>"
+    },
+    {
+      "title": "MBCS"
+      "body": "British Computer Society"
+    }]
   "work": [{
       "company": "DXC Technology",
       "position": "UKI&MEA Chief Security Architect and DXC Security CTO/Security Labs member",
