@@ -29,15 +29,12 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
     ]},
     "certifications": [{
       "cert": "CISSP",
-      "body": "(ISC)<sup>2</sup>"
     },
     {
       "cert": "CCSP",
-      "body": "(ISC)<sup>2</sup>"
     },
     {
       "cert": "MBCS",
-      "body": "British Computer Society"
     }
   ],
   "work": [{
@@ -174,6 +171,8 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
       "institution": "University of Portsmouth",
       "area": "Computer Science",
       "studyType": "BSc",
+      "startDate": "1988",
+      "endDate": "1993"
     }
   ],
   "languages": [{
