@@ -38,6 +38,15 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
     }
   ],
   "work": [{
+      "company": "Amazon Web Service",
+      "position": "Security and Complaince Leader",
+      "website": "https://aws.amazon.com/",
+      "startDate": "2019-11-08",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
       "company": "DXC Technology",
       "position": "UKI&MEA Chief Security Architect and DXC Security CTO/Security Labs member",
       "website": "https://www.dxc.technology",
@@ -48,6 +57,7 @@ Passionate about sharing his knowledge and helping develop new talent.  Represen
       Mark is leading the development of a DevSecOps Blueprint and co-authored a DevSecOps White Paper.
       Mark is also leading the establish of close integration between DXC Security and DXC’s Digital Transformation Centres, initially focused on the UK, as a pilot for global rollout.",
       "highlights": []
+      "endDate": "2019-11-11"
     },
     {
       "company": "Hewlett Packard Enterprise/DXC Technology",
